@@ -1,0 +1,24 @@
+{
+    "name": "peace2643/indonesian-holidays",
+    "description": "Simple package to check Indonesian public holidays",
+    "type": "library",
+    "keywords": ["indonesia", "holidays", "libur nasional", "tanggal merah"],
+    "homepage": "https://github.com/peace2643/indonesian-holidays",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanley Bruen",
+            "email": "stanleybruen4@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "peace2643\\IndonesianHolidays\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
