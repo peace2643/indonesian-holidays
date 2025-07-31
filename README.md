@@ -2,8 +2,13 @@
 
 Simple package to check Indonesian public holidays.
 
-## Installation
+## Credit
+Data is sourced from the awesome web at [tanggalans.id](https://tanggalans.id/). Terima kasih!
 
+## License
+MIT License
+
+## Installation
 ```bash
 composer require peace2643/indonesian-holidays
 Usage
@@ -47,7 +52,4 @@ isThisMonth() - Get all holidays this month
 isThisYear() - Get all holidays this year
 getAllHolidays() - Get all holidays
 getNext() - Get next upcoming holiday
-## Credit
-Data is sourced from the awesome web at [tanggalans.id](https://tanggalans.id/). Terima kasih!
-## License
-MIT License
+
