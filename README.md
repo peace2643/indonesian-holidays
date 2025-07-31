@@ -47,7 +47,7 @@ isThisMonth() - Get all holidays this month
 isThisYear() - Get all holidays this year
 getAllHolidays() - Get all holidays
 getNext() - Get next upcoming holiday
-Credit
-Data is sourced from the awesome web at https://tanggalans.id/. Terima kasih!
-License
+**## Credit**
+Data is sourced from the awesome web at [tanggalans.id](https://tanggalans.id/). Terima kasih!
+**License**
 MIT License
